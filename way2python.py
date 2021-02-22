@@ -1,9 +1,3 @@
-__author__='''
-Email : surajsinghbisht054@gmail.com
-Blog  : hackworldwithssb.blogspot.in
-
-'''
-
 import urllib, urllib2, cookielib, sys
 from getpass import getpass
 
